@@ -1,0 +1,25 @@
+<html>
+<body style="font-family:sans-serif">
+<p>
+	<b>About A-112 Waves</b><br>
+	Version 1.0 by Peter Witzel, Jan 2015
+</p>
+<p>
+	With this programm you can generate and upload waves and wavetables to the <a href="http://www.doepfer.de/a112.htm">Doepfer
+ 	A-112</a> modular system sampler. It can generate waveforms with a simple script or resample existing WAV files.
+ </p>
+<p>
+	Visit <a href="http://www.privatepublic.de/software/a112">www.privatepublic.de/software/a112</a> 
+	for help, documentation and contact.<br>
+	This is absolutely free software, project source on <a href='https://github.com/'>GitHub</a>.
+</p>
+<p>Thanks to</p>
+<ul>
+	<li>Zoë Blade for reverse-engineering A-112 sys-ex dumps and her 
+		<a href='https://github.com/ZoeB/wave-tools/blob/master/makedoepfer.py'>makedoepfer.py</a> 
+		python script on GitHub which I translated to Java</li>
+	<li>Andrew Greensted's <a href='http://www.labbookpages.co.uk/audio/javaWavFiles.html'>Java classes 
+	for WAV file i/o</a></li>
+</ul>
+</body>
+</html>
