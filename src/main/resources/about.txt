@@ -9,9 +9,9 @@
  	A-112</a> modular system sampler. It can generate waveforms with a simple script or resample existing WAV files.
  </p>
 <p>
-	Visit <a href="http://www.privatepublic.de/software/a112">www.privatepublic.de/software/a112</a> 
+	Visit <a href="http://www.privatepublic.de/blog/software/a-112-waves/">www.privatepublic.de/blog/software/a-112-waves</a> 
 	for help, documentation and contact.<br>
-	This is absolutely free software, project source on <a href='https://github.com/'>GitHub</a>.
+	This is absolutely free software, project source on <a href="https://github.com/privatepublic-de/A-112-Waves">GitHub</a>.
 </p>
 <p>Thanks to</p>
 <ul>
