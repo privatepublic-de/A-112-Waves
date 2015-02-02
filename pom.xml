@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.privatepublic.a112</groupId>
 	<artifactId>A112Waves</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>A112Waves</name>
 	<build>
 		<plugins>
