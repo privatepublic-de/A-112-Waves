@@ -5,4 +5,4 @@ With this programm you can generate and upload waves and wavetables to the [Doep
 The complete documentation for *A-112 Waves* can be found here:
 [www.privatepublic.de/blog/software/a-112-waves](http://www.privatepublic.de/blog/software/a-112-waves)
 
-To download the executable JAR file select a release from the "releases" tab above. Current release is version 1.0. 
+To download the executable JAR file select a release from the "releases" tab above. Current release is version 1.0.1. 
